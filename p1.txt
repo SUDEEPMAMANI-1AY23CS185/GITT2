@@ -1,11 +1,9 @@
 Hello world
 This is 2nd
 This is to stash 3rd
-<<<<<<< HEAD
 This is for 4th yes for 4th
 for 4th again
 doing 4th again
-=======
 This is for 4th
 This is to merge with commit message fb
->>>>>>> feature-branch
+merging for the second time
