@@ -1,4 +1,5 @@
 Hello world
 This is 2nd
 This is to stash 3rd
-This is for 4th 
+This is for 4th
+This is to merge with commit message fb
