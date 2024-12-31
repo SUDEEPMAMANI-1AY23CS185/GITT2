@@ -2,11 +2,9 @@ Hello world
 This is 2nd
 This is to stash 3rd
 This is for 4th yes for 4th
-<<<<<<< HEAD
 for 4th again
 doing 4th again
 This is for 4th
 This is to merge with commit message fb
 merging for the second time
-=======
->>>>>>> ae384e3 (fetching it)
+jnsouhf
